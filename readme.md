@@ -1,0 +1,1 @@
+This project is made only to learn Python from SCRATCH
