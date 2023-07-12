@@ -1,4 +1,4 @@
-#
+#We task input from user and according to that input value we assign grade
 
 marks = int(input())
 
